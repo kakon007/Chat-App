@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "582409708849",
+    "firebase_url": "https://real-chat-19b19.firebaseio.com",
+    "project_id": "real-chat-19b19",
+    "storage_bucket": "real-chat-19b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582409708849:android:8966ed3bc5643ebb807c10",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582409708849-51ibi3s2oind51aie3c2eihre9qpcmqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "786de92cfa0eb5bdedb9958b03b98a89f7bf0da2"
+          }
+        },
+        {
+          "client_id": "582409708849-sjcnt795jvuk5qeqtq96a6bqi1c61a1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB6govBNitfQaJYriHHmRdysRhRS3xQ5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582409708849-sjcnt795jvuk5qeqtq96a6bqi1c61a1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
